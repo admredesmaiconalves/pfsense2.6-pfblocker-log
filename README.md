@@ -15,6 +15,11 @@ Clique em Executar
 Coloque o comando abaixo
 > curl -o /usr/local/pkg/pfblockerng/pfblockerng.inc "https://gist.githubusercontent.com/BBcan177/7cb8635199446866d511b97166d65296/raw/"
 
+OU este comando abaixo que é uma cópia do arquivo do repositório acima.
+
+> curl -o /usr/local/pkg/pfblockerng/pfblockerng.inc "https://raw.githubusercontent.com/admredesmaiconalves/pfsense2.6-pfblocker-log/main/pfblockerng.inc"
+
+
 Clique em Executar
 
 ########################################################
